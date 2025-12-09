@@ -96,7 +96,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/chandan-b-r/weather-app.git
+git clone https://github.com/chandan-b-r/Weather-App.git
 
 # Navigate to project
 cd weather-app
