@@ -2,7 +2,7 @@
 
 # 🌤️ Weather App
 
-### *A Modern, Beautiful Weather Application*
+### *A Modern Weather Application*
 
 [![React](https://img.shields.io/badge/React-19.2-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-7.2-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
